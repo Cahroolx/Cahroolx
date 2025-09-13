@@ -29,7 +29,7 @@ Ainda não tenho projetos finalizados, mas pretendo compartilhar meus estudos e 
 ---
 
 ### 📊 Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cahroolx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Cahroolx GitHub stats](https://github-readme-stats.vercel.app/api?username=Cahroolx&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cahroolx&hide_progress=compact)
 
 ---
